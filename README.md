@@ -4,6 +4,8 @@
 </div>
 <h3 align="center">A passionate Flutter Frontend developer, Data Science & ML Enthusiast.</h3>
 
+- 🎓 Currently pursuing **Electronics & Communication Engineering from** [NIT Agartala](https://nita.ac.in/)
+
 - 🔭 I’m currently working on [HoBiT](https://github.com/aitiqad/Hobit-The-Health-Tracker)
 
 - 💬 Ask me about **memes & dark jokes /-**
